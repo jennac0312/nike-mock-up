@@ -1,0 +1,129 @@
+.navContainer{
+    border: 2px solid black;
+    height: 36px;
+    margin: 1em;
+    display: flex;
+    justify-content: space-between;
+    background-color: lightgrey;
+
+}
+.subNav{
+    border: 2px solid red;
+    height: 64px;
+    margin: 1em;
+    display: flex;
+    justify-content: space-evenly;
+}
+.scrollContainer{
+    border: 2px solid black;
+    /* height: 45px; */
+    margin: 1em;
+    background-color: lightgrey;
+}
+.mainImg{
+    /* border: 2px solid blue; */
+    /* height: 575px; */
+    margin: 1em;
+    padding: 1em;
+}
+.midContainer{
+    /* border: 2px solid black; */
+    /* height: 22vh; */
+    margin: 1em;
+}
+
+.iconContainer{
+    /* border: 2px solid red; */
+    display: flex;
+}
+
+.themeContainer{
+    border: 2px solid blue;
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+    align-items: center;
+    /*  */
+}
+.theme{
+}
+
+.logo{
+    border: 2px solid pink;
+    margin-left: 3px;
+    height: inherit;
+}
+
+.miniSub{
+    border: 2px solid pink;
+    width: 25%;
+}
+
+.nike{
+    border: 2px solid blue;
+    height:100%;
+    width: auto
+}
+
+.menu{
+    border: 2px solid lightblue;
+    align-self: center;
+}
+
+.searchBar{
+    border: 2px solid red;
+}
+
+.symbol{
+    border: 2px solid turquoise;
+    border-radius: 50%;
+    height: 50%
+}
+
+.symbol:hover{
+    background-color: green
+}
+
+#flexer{
+    display: flex;
+    justify-content: space-between;
+}
+
+#firstOne{
+    margin-right: 50px;
+}
+
+.searchBar{
+    border-radius: 22px;
+    text-align: center;
+}
+
+.topText, .bottomText{
+    text-align: center;
+}
+
+.shoePic{
+    width: 100%;
+}
+
+.slogan{
+    width: 40%
+}
+
+.shop{
+    font-size: 22px;
+    background-color: black;
+    color: white;
+    width: 125px;
+    border-radius: 22px;
+    border: 2px solid grey
+}
+
+.shop:hover{
+    color: lightgreen;
+}
+.sneaker{
+    height: 250px;
+    width: 250px;
+    border: solid lime
+}
